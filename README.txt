@@ -13,4 +13,4 @@ Potential improvements :
 	- To hybridize algorithms of different practices.
 
 
-	Testing SSH Clone and Push. En clase.
+	Testing SSH Clone and Push. En clase. Y ahora con eclipse.
